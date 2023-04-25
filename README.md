@@ -1,6 +1,6 @@
 # 4A-prac
 
-access deployed site here:- https://aditheripper.github.io/4A-prac/
+access deployed site by clicking [here](https://aditheripper.github.io/4A-prac/)
 
 * use above given codes as input and attach your own outputs.
 
