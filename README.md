@@ -1,8 +1,10 @@
-# 4A-prac
+# Practical - 4A
 
 access deployed site by clicking [here](https://aditheripper.github.io/4A-prac/)
 
 * use above given codes as input and attach your own outputs.
+
+* writeups for this practical is provided in folder mentioned above
 
 * Trying to run on VS code ..? 
      use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension 
