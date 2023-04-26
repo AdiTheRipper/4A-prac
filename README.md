@@ -2,7 +2,9 @@
 
 access deployed site by clicking [here](https://aditheripper.github.io/4A-prac/)
 
-* use above given codes as input and attach your own outputs.
+* use above given codes as input and attach your own outputs. (⚠️images in "img" folder are not outputs )
+
+
 
 * [writeups](https://github.com/AdiTheRipper/4A-prac/tree/main/writeup) for this practical is provided in folder mentioned above.
 
